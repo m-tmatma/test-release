@@ -5,6 +5,9 @@ changelog:
     - title: 🏕 Features
       labels:
         - feature
+    - title: 🏕 Enhancement
+      labels:
+        - enhancement
     - title: 👒 Dependencies
       labels:
         - dependencies
