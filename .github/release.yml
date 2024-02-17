@@ -11,3 +11,6 @@ changelog:
     - title: 👒 Dependencies
       labels:
         - dependencies
+    - title: 🐛 Bug
+      labels:
+        - bug
