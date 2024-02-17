@@ -1,6 +1,10 @@
 # .github/release.yml
 
 changelog:
+  exclude:
+    labels:
+      - duplicate
+      - ignore-for-release
   categories:
     - title: 🏕 Features
       labels:
