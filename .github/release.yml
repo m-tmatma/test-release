@@ -12,6 +12,9 @@ changelog:
     - title: 🏕 Enhancement
       labels:
         - enhancement
+    - title: breaking changes
+      labels:
+        - breaking changes
     - title: 👒 Dependencies
       labels:
         - dependencies
