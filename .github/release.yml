@@ -6,15 +6,15 @@ changelog:
       - duplicate
       - ignore-for-release
   categories:
+    - title: breaking changes
+      labels:
+        - breaking changes
     - title: 🏕 Features
       labels:
         - feature
     - title: 🏕 Enhancement
       labels:
         - enhancement
-    - title: breaking changes
-      labels:
-        - breaking changes
     - title: 👒 Dependencies
       labels:
         - dependencies
